@@ -1,4 +1,5 @@
 # Pathfinding Algorithm Visualizer 🚀
+![Pathfinding Visualizer Demo](demoPath.png)
 
 A Python-based GUI application built with `Tkinter` that visualizes how various search algorithms find their way from a start point (S) to a target (T) on a grid.
 
@@ -16,10 +17,10 @@ A Python-based GUI application built with `Tkinter` that visualizes how various 
 ## 🛠️ Installation
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/abeerashraf1405/Pathfinding-Visualizer-Python.git](https://github.com/abeerashraf1405/Pathfinding-Visualizer-Python.git)
+   git clone https://github.com/abeerashraf1405/Pathfinding-Visualizer-Python.git
    
 
-2. Ensure you have Python installed (3.10 64-bit).
+2. Ensure you have Python installed (3.x).
 Run the application:
 ```bash
 python pathfinder.py
