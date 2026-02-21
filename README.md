@@ -35,10 +35,4 @@ Interested in AI, Algorithms, and System Design.
 ## 📜 License
 This project is for educational purposes. If you use this code, please attribute the original author (Abeer).
 
-## 5. Pro-Tip for Credit (The License)
-If you really want to protect your work, add a `LICENSE` file:
-1.  Click **Add file** -> **Create new file**.
-2.  Name it `LICENSE`.
-3.  Click **Choose a license template**.
-4.  Select **MIT License** (standard) or **GNU GPLv3** (stricter).
-5.  It will automatically insert your name and the year.
+
